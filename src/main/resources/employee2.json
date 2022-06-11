@@ -1,0 +1,16 @@
+[
+	{
+		"firstName" : "Tariq",
+		"lastName" : "Ahsan",
+		"address" : "100 main st. fairfax, va 22030",
+		"phone" : "111-222-3333",
+		"email" : "tariqahsan@yahoo.com"
+	},
+	{
+		"firstName" : "Tausif",
+		"lastName" : "Ahsan",
+		"address" : "200 main st. fairfax, va 22030",
+		"phone" : "111-222-4444",
+		"email" : "tausifrahsan@gmail.com"
+	}
+]

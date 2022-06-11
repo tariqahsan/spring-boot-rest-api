@@ -1,0 +1,16 @@
+[
+	{
+		"firstName" : "Mohammed",
+		"lastName" : "Ali",
+		"address" : "123 elm st. chantilly, va 20152",
+		"phone" : "333-222-3333",
+		"email" : "mohammed.ali@yahoo.com"
+	},
+	{
+		"firstName" : "Ayesha",
+		"lastName" : "Siddiqui",
+		"address" : "456 oak st. frederisburg, va 22123",
+		"phone" : "111-256-9999",
+		"email" : "ayesha@gmail.com"
+	}
+]
